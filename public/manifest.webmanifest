@@ -1,0 +1,26 @@
+{
+    "id": "/",
+    "name": "Artline Traffic",
+    "short_name": "Artline",
+    "description": "Artline Traffic Teklif ve İş Yönetim Sistemi",
+    "lang": "tr-TR",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#f3f4f6",
+    "theme_color": "#263746",
+    "icons": [
+       {
+           "src": "/img/app-icon-192.png",
+           "sizes": "192x192",
+           "type": "image/png",
+           "purpose": "any"
+       },
+       {
+           "src": "/img/app-icon-512.png",
+           "sizes": "512x512",
+           "type": "image/png",
+           "purpose": "any"
+       }
+    ]
+}
